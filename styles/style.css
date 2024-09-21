@@ -91,3 +91,37 @@ nav.nav-space-between {
 	display: flex;
 	justify-content: space-between;
 }
+
+section {
+	width: 100%;
+}
+
+.section-header {
+	margin-bottom: 30px;
+}
+
+.section-content {
+	display: flex;
+	width: 100%;
+}
+
+.section-left {
+	width: 23%;
+	color: #E84E1B;
+}
+
+.section-right {
+	width: 82%;
+}
+
+.section-mt {
+	margin-top: 50px;
+}
+
+.section-content-mt {
+	margin-top: 30px;
+}
+
+.accent_text {
+	color: #E84E1B;
+}
