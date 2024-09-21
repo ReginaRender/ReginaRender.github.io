@@ -9,9 +9,10 @@ body {
 #bird {
     position: absolute;
     bottom: 0;
-    left: calc(50vw - 246px);
+    left: calc(50vw - min(460px, 100vh - 200px) / 2);
     z-index: -1;
     user-select: none;
+    height: calc(min(460px, 100vh - 200px));
 }
 
 footer {
