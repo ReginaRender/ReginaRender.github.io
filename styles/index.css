@@ -1,0 +1,21 @@
+body {
+	margin-top: 25px;
+}
+
+.link-mr {
+    margin-right: 30px;
+}
+
+#bird {
+    position: absolute;
+    bottom: 0;
+    left: calc(50vw - 246px);
+    z-index: -1;
+    user-select: none;
+}
+
+footer {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
