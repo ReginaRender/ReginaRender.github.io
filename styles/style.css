@@ -86,3 +86,8 @@ a.link-with-arrow:hover > .link-arrow-right {
 nav {
 	margin-bottom: 30px;
 }
+
+nav.nav-space-between {
+	display: flex;
+	justify-content: space-between;
+}
